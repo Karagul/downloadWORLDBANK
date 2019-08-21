@@ -2,9 +2,12 @@
   <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true">
 </p>
 
-## Interactive application for programmatic data retrieval from [WORLDBANK](https://www.worldbank.org/)
+## Interactive application for programmatic data retrieval from [WorldBank](https://www.worldbank.org/)
 
 This appication is based on the [**wbstats** package](https://github.com/GIST-ORNL/wbstats). To learn more about the functionality of the package please refer to the [tutorial](https://cran.r-project.org/web/packages/wbstats/vignettes/Using_the_wbstats_package.html#fn2).
+
+:books: [WorldBank knowledge base](https://datahelpdesk.worldbank.org/knowledgebase)
+:shipit: [WorldBank developer information](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
 
 ### Nomenclature
 
